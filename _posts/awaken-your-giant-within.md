@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## My undestanding of Awaken the giant within
 
@@ -7,4 +7,3 @@ published: false
 
 Thankyou fo reading this :)
 Ishan Lakhwani
-
