@@ -21,3 +21,5 @@ published: true
 is that people listen to them. But people who blindly accept doom-and-gloom information are also Chicken Littles. As that old saying goes, “Birds of a feather flock together.”
 16. Poor people have poor habits. A common bad habit is innocently called “dipping into savings.” The rich know that savings are only used to create more money, not to pay bills.
 17. Kiyosaki defines an asset as anything that puts money in your pocket. A liability is anything that takes money out of your pocket. The big mistake that poor and middle class people make, according to Kiyosaki, is spending their lives buying liabilities instead of assets.
+
+Thanks for reading! Ishan Lakhwani
