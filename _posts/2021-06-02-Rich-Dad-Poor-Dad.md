@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## By Robert T. Kiyosaki
 
