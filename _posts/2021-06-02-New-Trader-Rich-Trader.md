@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Things I lked in this book
 
@@ -17,6 +17,3 @@ published: false
 
 Thanks for reading!
 Ishan Lakhwani
-
-
-
